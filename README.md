@@ -1,2 +1,2 @@
-# bot-clasificador-de-imagenes-con-Telegram
-Un bot clasificador de imagenes con telegram y darknet
+# bot-clasificador-de-imagenes-de-setas-con-Telegram
+Un bot clasificador de imagenes de setas con telegram y darknet
